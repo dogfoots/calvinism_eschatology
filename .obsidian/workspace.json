@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7877e7122138415e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2bd91b55c92a3d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e4309ae7732d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인물/A.B. 데이비슨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0d5473a215727fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "교파/Free Church of Scotland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9676838fade3ed19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "책/개혁주의 종말론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27ef6c3ef4ee4938",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3e1b540a0b8830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad5b23ad4037c9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67b71f987b57ad24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82f9b3d881c8a898",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ba71c4ea9037a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5f3249c16f4aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c1b3a285168d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "책/개혁주의 종말론.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3bd0dc54049bc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "책/개혁주의 종말론.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63dd9fb0d18d5f46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d1292bf1a21066a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "책/개혁주의 종말론.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9676838fade3ed19",
+  "lastOpenFiles": [
+    "인물/조지 래드.md",
+    "책/개혁주의 종말론.md",
+    "책/The Presence of the Future.md",
+    "책/The Theology of the Old Testament.md",
+    "교파/Free Church of Scotland.md",
+    "인물/A.B. 데이비슨.md",
+    "교파",
+    "이념 및 신학/Untitled.md",
+    "인물/라인홀드 니버.md",
+    "인물/디트리히 본회퍼.md",
+    "책/Theology of the New Testament.md",
+    "책/An Outline of Old Testament Theology.md",
+    "책/Theology of Hope.md",
+    "인물/위르겐 몰트만.md",
+    "인물/프리전.md",
+    "인물/마틴 루터 킹 주니어.md",
+    "인물/에버하르트 융엘.md",
+    "인물/앤서니 후크마.md",
+    "이념 및 신학/역사적 전천년주의.md",
+    "조지래드.md",
+    "책",
+    "이념 및 신학/기독교 현실주의.md",
+    "이념 및 신학/마르크스 주의.md",
+    "교파/복음주의 개혁교회.md",
+    "이념 및 신학/힐러리 클린턴.md",
+    "이념 및 신학/버락 오바마.md",
+    "이념 및 신학/사회복음주의 운동.md",
+    "이념 및 신학/지미 카터.md",
+    "이념 및 신학",
+    "인물"
+  ]
+}
