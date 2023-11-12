@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "루돌프 키텔.md",
+                "file": "인물/루돌프 키텔.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비블리아 헤브라이카.md",
+                "file": "인물/게하르트 키텔.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "비블리아 헤브라이카.md",
+                "file": "인물/게하르트 키텔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "비블리아 헤브라이카.md",
+                "file": "인물/게하르트 키텔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "비블리아 헤브라이카.md"
+                "file": "인물/게하르트 키텔.md"
               }
             }
           }
@@ -232,10 +232,10 @@
   },
   "active": "6c2c880dae5ced70",
   "lastOpenFiles": [
-    "루돌프 키텔.md",
-    "비블리아 헤브라이카.md",
+    "인물/루돌프 키텔.md",
     "인물/게하르트 키텔.md",
-    "Salvation in History.md",
+    "책/비블리아 헤브라이카.md",
+    "책/Salvation in History.md",
     "인물/오스카쿨만.md",
     "책/개혁주의 종말론.md",
     "책/The Presence of the Future.md",
