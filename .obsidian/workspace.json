@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/Untitled.md",
+                "file": "인물/오스카쿨만.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "999044a833e8d2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salvation in History.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/Untitled.md",
+                "file": "Salvation in History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/Untitled.md",
+                "file": "Salvation in History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/Untitled.md"
+                "file": "Salvation in History.md"
               }
             }
           }
@@ -194,10 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb62ee60d8b58007",
+  "active": "999044a833e8d2ad",
   "lastOpenFiles": [
+    "인물/오스카쿨만.md",
+    "Salvation in History.md",
     "책/개혁주의 종말론.md",
-    "인물/Untitled.md",
     "책/The Presence of the Future.md",
     "책/Eschatology in the New Testament.md",
     "인물/윌리엄 맨슨.md",
@@ -223,7 +236,6 @@
     "인물/에버하르트 융엘.md",
     "인물/앤서니 후크마.md",
     "이념 및 신학/역사적 전천년주의.md",
-    "조지래드.md",
     "책",
     "이념 및 신학",
     "인물"
