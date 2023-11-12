@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "cb62ee60d8b58007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인물/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c19c71c79290b8e5",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/윌리엄 맨슨.md",
+                "file": "인물/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/윌리엄 맨슨.md",
+                "file": "인물/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/윌리엄 맨슨.md"
+                "file": "인물/Untitled.md"
               }
             }
           }
@@ -182,8 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9676838fade3ed19",
+  "active": "cb62ee60d8b58007",
   "lastOpenFiles": [
+    "책/개혁주의 종말론.md",
+    "인물/Untitled.md",
+    "책/The Presence of the Future.md",
+    "책/Eschatology in the New Testament.md",
+    "인물/윌리엄 맨슨.md",
     "교파/United Free Church of Scotland.md",
     "교파/Free Church of Scotland.md",
     "교파/United Presbyterian Church.md",
@@ -194,9 +211,6 @@
     "인물/마틴 루터 킹 주니어.md",
     "인물/라인홀드 니버.md",
     "인물/디트리히 본회퍼.md",
-    "인물/윌리엄 맨슨.md",
-    "책/개혁주의 종말론.md",
-    "책/The Presence of the Future.md",
     "인물/조지 래드.md",
     "책/The Theology of the Old Testament.md",
     "교파",
@@ -211,7 +225,6 @@
     "이념 및 신학/역사적 전천년주의.md",
     "조지래드.md",
     "책",
-    "이념 및 신학/기독교 현실주의.md",
     "이념 및 신학",
     "인물"
   ]
