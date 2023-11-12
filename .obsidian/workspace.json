@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/게하르트 키텔.md",
+                "file": "인물/게하르트 키텔 Gerhard Kittel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/게하르트 키텔.md",
+                "file": "인물/디트리히 본회퍼.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/게하르트 키텔.md",
+                "file": "인물/디트리히 본회퍼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/게하르트 키텔.md",
+                "file": "인물/디트리히 본회퍼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/게하르트 키텔.md"
+                "file": "인물/디트리히 본회퍼.md"
               }
             }
           }
@@ -232,12 +232,14 @@
   },
   "active": "6c2c880dae5ced70",
   "lastOpenFiles": [
+    "책/개혁주의 종말론.md",
+    "인물/디트리히 본회퍼.md",
+    "인물/게하르트 키텔 Gerhard Kittel.md",
+    "인물/찰스 헤롤드 도드.md",
     "인물/루돌프 키텔.md",
-    "인물/게하르트 키텔.md",
     "책/비블리아 헤브라이카.md",
     "책/Salvation in History.md",
     "인물/오스카쿨만.md",
-    "책/개혁주의 종말론.md",
     "책/The Presence of the Future.md",
     "책/Eschatology in the New Testament.md",
     "인물/윌리엄 맨슨.md",
@@ -250,7 +252,6 @@
     "인물/볼프하르트 판넨베르크.md",
     "인물/마틴 루터 킹 주니어.md",
     "인물/라인홀드 니버.md",
-    "인물/디트리히 본회퍼.md",
     "인물/조지 래드.md",
     "책/The Theology of the Old Testament.md",
     "교파",
@@ -259,7 +260,6 @@
     "책/An Outline of Old Testament Theology.md",
     "책/Theology of Hope.md",
     "인물/위르겐 몰트만.md",
-    "인물/프리전.md",
     "책",
     "이념 및 신학",
     "인물"
