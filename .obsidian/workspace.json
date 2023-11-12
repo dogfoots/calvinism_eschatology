@@ -49,7 +49,55 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "인물/찰스 헤롤드 도드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5648029645ee6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "책/개혁주의 종말론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd97436e99601696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이념 및 신학/시작된 종말론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f5e3317bd9664aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인물/존 아서 토마스 로빈슨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c33e17e6ab55e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인물/존 아서 토마스 로빈슨.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -206,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/개혁주의 종말론.md",
+                "file": "인물/존 아서 토마스 로빈슨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/개혁주의 종말론.md",
+                "file": "인물/존 아서 토마스 로빈슨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/개혁주의 종말론.md"
+                "file": "인물/존 아서 토마스 로빈슨.md"
               }
             }
           }
@@ -266,15 +314,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2affdbdd7897d331",
+  "active": "69c33e17e6ab55e1",
   "lastOpenFiles": [
+    "이념 및 신학/자유주의 신학.md",
+    "인물/존 아서 토마스 로빈슨.md",
+    "이념 및 신학/시작된 종말론.md",
+    "책/개혁주의 종말론.md",
+    "이념 및 신학/실현된 종말론.md",
+    "인물/찰스 헤롤드 도드.md",
     "인물/마틴 하이데거.md",
     "인물/루돌프 오토.md",
-    "인물/찰스 헤롤드 도드.md",
     "인물/루돌프 키텔.md",
     "인물/윌리엄 맨슨.md",
     "교파/Free Church of Scotland.md",
-    "책/개혁주의 종말론.md",
     "책/theological dictionary of the old testament.md",
     "책/theological dictionary of the new testament.md",
     "인물/게하르트 키텔.md",
@@ -290,11 +342,7 @@
     "인물/오스카 쿨만.md",
     "책/Salvation in History.md",
     "책/Eschatology in the New Testament.md",
-    "교파/United Free Church of Scotland.md",
-    "교파/United Presbyterian Church.md",
     "Pasted image 20231112231116.png",
-    "교파/복음주의 개혁교회.md",
-    "인물/마틴 루터 킹 주니어.md",
     "교파",
     "책",
     "이념 및 신학",
