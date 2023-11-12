@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/루돌프 오토.md",
+                "file": "책/개혁주의 종말론.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/루돌프 오토.md",
+                "file": "책/개혁주의 종말론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/루돌프 오토.md",
+                "file": "책/개혁주의 종말론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/루돌프 오토.md"
+                "file": "책/개혁주의 종말론.md"
               }
             }
           }
@@ -268,10 +268,10 @@
   },
   "active": "2affdbdd7897d331",
   "lastOpenFiles": [
-    "인물/찰스 헤롤드 도드.md",
-    "인물/루돌프 오토.md",
-    "인물/루돌프 키텔.md",
     "인물/마틴 하이데거.md",
+    "인물/루돌프 오토.md",
+    "인물/찰스 헤롤드 도드.md",
+    "인물/루돌프 키텔.md",
     "인물/윌리엄 맨슨.md",
     "교파/Free Church of Scotland.md",
     "책/개혁주의 종말론.md",
