@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/개혁주의 종말론.md",
+                "file": "이념 및 신학/기독교 현실주의.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/개혁주의 종말론.md",
+                "file": "이념 및 신학/기독교 현실주의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/개혁주의 종말론.md",
+                "file": "이념 및 신학/기독교 현실주의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/개혁주의 종말론.md"
+                "file": "이념 및 신학/기독교 현실주의.md"
               }
             }
           }
@@ -376,8 +376,9 @@
   },
   "active": "dba79f475b5db31f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "이념 및 신학/사회복음주의 운동.md",
     "책/개혁주의 종말론.md",
+    "conflict-files-obsidian-git.md",
     "책/비블리아 헤브라이카.md",
     "이념 및 신학/시작된 종말론.md",
     "이념 및 신학/실현된 종말론.md",
@@ -401,7 +402,6 @@
     "인물/디트리히 본회퍼.md",
     "인물/A.B. 데이비슨.md",
     "책/The Presence of the Future.md",
-    "인물/오스카 쿨만.md",
     "Pasted image 20231112231116.png",
     "교파",
     "책",
