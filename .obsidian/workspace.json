@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "7877e7122138415e",
+    "type": "split",
+    "children": [
+      {
+        "id": "144ff9a22ff9b08a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28044743c90f47a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27ef6c3ef4ee4938",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3e1b540a0b8830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad5b23ad4037c9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67b71f987b57ad24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82f9b3d881c8a898",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ba71c4ea9037a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5f3249c16f4aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c1b3a285168d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3bd0dc54049bc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63dd9fb0d18d5f46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d1292bf1a21066a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "28044743c90f47a7",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "책/개혁주의 종말론.md",
+    "인물/찰스 헤롤드 도드.md",
+    "conflict-files-obsidian-git.md",
+    "책/비블리아 헤브라이카.md",
+    "이념 및 신학/시작된 종말론.md",
+    "이념 및 신학/실현된 종말론.md",
+    "책/Jesus and His Coming.md",
+    "인물/존 아서 토마스 로빈슨.md",
+    "이념 및 신학/자유주의 신학.md",
+    "인물/마틴 하이데거.md",
+    "인물/루돌프 오토.md",
+    "인물/루돌프 키텔.md",
+    "인물/윌리엄 맨슨.md",
+    "교파/Free Church of Scotland.md",
+    "책/theological dictionary of the old testament.md",
+    "책/theological dictionary of the new testament.md",
+    "인물/게하르트 키텔.md",
+    "인물/에버하르트 융엘.md",
+    "인물/앤서니 후크마.md",
+    "인물/볼프하르트 판넨베르크.md",
+    "인물/프리전.md",
+    "인물/라인홀드 니버.md",
+    "인물/디트리히 본회퍼.md",
+    "인물/A.B. 데이비슨.md",
+    "책/The Presence of the Future.md",
+    "Pasted image 20231112231116.png",
+    "교파",
+    "책",
+    "이념 및 신학",
+    "인물"
+  ]
+}
